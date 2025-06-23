@@ -1,6 +1,8 @@
 package co.cstad_student.spring_web_mvc.Model;
 
 public class Product {
+
+    private int id;
     private String name;
     private double price;
 
@@ -9,19 +11,19 @@ public class Product {
         this.price = price;
     }
 
-    public String getName() {
-        return name;
-    }
+//    public String getName() {
+//        return name;
+//    }
 
-    public void setName(String name) {
-        this.name = name;
-    }
+//    public void setName(String name) {
+//        this.name = name;
+//    }
 
-    public double getPrice() {
-        return price;
-    }
+//    public double getPrice() {
+//        return price;
+//    }
 
-    public void setPrice(double price) {
-        this.price = price;
-    }
+//    public void setPrice(double price) {
+//        this.price = price;
+//    }
 }
