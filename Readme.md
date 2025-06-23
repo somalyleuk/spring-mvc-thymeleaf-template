@@ -20,3 +20,4 @@ It adds this list to the Spring Model object, making it accessible to the view.
 It returns the logical view name "products".
 
 Thymeleaf (our View technology) resolves this to products.html and renders the data from the Model into the HTML table.# spring-mvc-thymeleaf-
+# spring-mvc-thymeleaf-template
