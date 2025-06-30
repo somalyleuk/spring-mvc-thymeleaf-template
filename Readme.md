@@ -3,7 +3,7 @@ Run the Application:
 Open a terminal in the root directory of your project.
 
 Run the application using Maven: mvn spring-boot:run
-or Gradle: gradle bootRun
+or Gradle: ./gradlew bootRun
 
 Open your web browser and go to http://localhost:8080/products.
 
